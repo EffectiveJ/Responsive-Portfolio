@@ -235,6 +235,9 @@ input[type=submit] {
      margin-right:300px;
      width:300px;
    }
+   body{
+     background-color: aqua;
+   }
 }
 
 
